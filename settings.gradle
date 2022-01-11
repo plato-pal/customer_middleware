@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'middleware'
-include('app')
+include('middleware')
